@@ -3,7 +3,6 @@
 #include <fstream> 
 using namespace std;
 
-//upload .txt file into code, unsure of how to do so
 int main() {
   ifstream myFile("puzzleinput.txt");
   string data;
